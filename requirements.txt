@@ -1,0 +1,7 @@
+# Playwright Browser Automation Service
+# Minimal dependencies for browser automation
+
+playwright>=1.40.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.0.0
